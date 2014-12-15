@@ -19,6 +19,8 @@ if (metodoMio(x))
 System.out.print(x + " ");                         	 
 }         	 
 	}
+    //aux =  true para variable =16 y j=2
+    
 public static boolean metodoMio(int variable){
 int j = 2;
 boolean aux=true;
